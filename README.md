@@ -1,4 +1,4 @@
-## Olá mundo! Eu sou o José Henrique
+## Hello World! I'm José Henrique!
 
 <div align="center">
   <a href="https://github.com/jose15000">
