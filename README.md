@@ -6,6 +6,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose15000&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ##
-
-   ![Snake animation](https://github.com/jose15000/jose15000/blob/output/github-contribution-grid-snake.svg)
