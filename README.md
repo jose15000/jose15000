@@ -11,8 +11,8 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jose15000&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="45%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jose15000&theme=dark&hide_border=false" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jose15000&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jose15000&theme=dark&hide_border=false" />
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jose15000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
