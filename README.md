@@ -1,4 +1,4 @@
-alinhe esse readme.md
+
 
 # 💫 About Me:
 🔭 I’m a Computer Science student, trying to learn more and more every day<br>🌱 I’m currently learning C# and .NET <br>💬 Here on my GitHub page, you'll find a collection of my projects that showcase my abilities and technical knowledge. Take a look around and if you have any questions, don't hesitate to reach out!<br>
