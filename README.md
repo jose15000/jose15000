@@ -1,12 +1,20 @@
 
 <div align="center">
-    <h1>Olá mundo! Meu nome é José Henrique</h1>
+    <h1>José Henrique</h1>
 </div>
 <br>
 
-- 👨‍💻 Eu sou um estudante de **Ciência da Computação**, e estou atualmente no **7º período**.
-- 🔥 Atualmente estou me aventurando no **front-end** e no **mobile**
-- 🤓 Embora esteja focando no front-end, tenho conhecimentos em outras stacks. Aqui estão alguns dos meus conhecimentos: 
-<div align="center" style="margin: 0px;">
-    <img src="https://skillicons.dev/icons?i=ts,bun,nodejs,express,react,next,mongo,linux, &perline=6" />
-</div>
+- Software engineer and computer science student from Brazil
+
+  My stacks: 
+
+![image](https://skillicons.dev/icons?i=ts,bun,nodejs,express,react,next,mongo,linux)
+
+
+I love frogs
+
+![image](https://github.com/user-attachments/assets/01fd2c6b-6967-41ec-8449-23ab0cf447b7)
+
+
+
+
