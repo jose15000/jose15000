@@ -39,11 +39,8 @@ I'm a Brazilian Full Stack Developer focused on backend systems, AI-driven appli
 
 My main interests are:
 - AI agents & orchestration systems
-- Event-driven architectures
-- WhatsApp automation ecosystems
 - Developer tooling
 - Scalable backend engineering
-- Open Finance products
 
 Currently building systems that combine LLMs, contextual workflows and real-world automation.
 
@@ -69,20 +66,7 @@ Currently building systems that combine LLMs, contextual workflows and real-worl
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastapi,docker,postgres,mongodb" />
 </p>
 
-## AI & Automation
-
-<p align="left">
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-black?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-blue?style=flat-square)
-![n8n](https://img.shields.io/badge/n8n-Automation-orange?style=flat-square)
-![WPPConnect](https://img.shields.io/badge/WPPConnect-WhatsApp-success?style=flat-square)
-
-</p>
-
 ---
-
 
 # 🤝 Let's Connect
 
@@ -92,7 +76,6 @@ I'm always interested in:
 * automation systems
 * backend architecture
 * developer tooling
-* ambitious product ideas
 
 <p align="left">
   <a href="mailto:josehenrique.dev.contato@gmail.com">
